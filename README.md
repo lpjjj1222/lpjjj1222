@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Netup Mobile Application**
 
-- 👯 I’m looking to collaborate on [Wordplay](https://wordplay.dev/)
+- 👯 I’m collaborating on [Wordplay](https://wordplay.dev/) and [Netup](https://www.netup.social)
 
 - 💬 Ask me about **React, React Native**
 
