@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating on [Wordplay](https://wordplay.dev/) and [Netup](https://www.netup.social)
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me **peijinglin1@163.com**
 
